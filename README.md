@@ -1,4 +1,4 @@
-# ResearchGPT
+# ResearchBOT
 
 #### Setting Up Your ChatGPT with Custom PDF Data (Research Papers) using LangChain
 
